@@ -78,7 +78,3 @@ The game logic is implemented using JavaScript and includes functions to handle 
 ## License
 
 Feel free to contribute to the project by submitting issues or pull requests. Enjoy the game!
-
----
-
-This README provides a comprehensive guide to understanding and playing the Count 4 game. Happy connecting!
