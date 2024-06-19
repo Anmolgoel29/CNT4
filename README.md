@@ -77,8 +77,6 @@ The game logic is implemented using JavaScript and includes functions to handle 
 
 ## License
 
-This project is open source and available under the [MIT License](LICENSE).
-
 Feel free to contribute to the project by submitting issues or pull requests. Enjoy the game!
 
 ---
